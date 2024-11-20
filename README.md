@@ -18,3 +18,6 @@
 
 | ![Dineshbabu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dineshbaburam91&theme=white&show_icons=true)  | ![Dineshbabu's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dineshbaburam91&background=ffffff&hide_border=true) | 
 | ------------- | ------------- |
+
+
+![snake gif](https://github.com/dineshbaburam91/dineshbaburam91/blob/output/github-contribution-grid-snake.gif)
