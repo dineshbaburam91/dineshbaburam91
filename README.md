@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm Dinesh Babu</h1>
 <h3 align="center"> Network Automation Engineer </h3> 
+<img alt="Coder GIF" height=250 width=350 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dinesh-babu-835b9462/">
