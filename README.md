@@ -16,8 +16,8 @@
 
 <img src="https://komarev.com/ghpvc/?username=dineshbaburam91"/>
 
-| ![Dineshbabu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dineshbaburam91&theme=white&show_icons=true)  | ![Dineshbabu's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dineshbaburam91&background=ffffff&hide_border=true) | 
-| ------------- | ------------- |
+| ![Dineshbabu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dineshbaburam91&theme=white&show_icons=true)  | 
+| ------------- |
 
 
 <img src="https://raw.githubusercontent.com/dineshbaburam91/dineshbaburam91/output/snake.svg" alt="Snake animation" />
